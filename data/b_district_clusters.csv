@@ -1,0 +1,13 @@
+,District,Longitude,Latitude,Area,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,Charlottenburg-Wilmersdorf,13.272750785323504,52.50796263682948,64.69282303647738,0,Italian Restaurant,Hotel,Café,Supermarket,Bakery,German Restaurant,Plaza,Bus Stop,Vietnamese Restaurant,Coffee Shop
+1,Friedrichshain-Kreuzberg,13.45069781057908,52.50689720707378,20.399734277846154,0,Café,Bar,Hotel,Bakery,Coffee Shop,Italian Restaurant,Park,Vietnamese Restaurant,Ice Cream Shop,Supermarket
+2,Lichtenberg,13.49092055987913,52.532284269868995,52.11998009011308,3,Supermarket,Tram Station,Bakery,Hotel,Café,Drugstore,Bus Stop,Soccer Field,Park,Zoo Exhibit
+3,Marzahn-Hellersdorf,13.585397413903896,52.52247428610016,61.81775462869653,2,Supermarket,Tram Station,Bus Stop,Garden,Drugstore,Italian Restaurant,Hotel,Shopping Mall,Ice Cream Shop,Light Rail Station
+4,Mitte,13.359798059506346,52.53323007057742,39.3988032327007,0,Hotel,Café,Coffee Shop,Italian Restaurant,Supermarket,Bakery,Bar,German Restaurant,Restaurant,Park
+5,Neukölln,13.443075490568862,52.44589580355115,44.93167482696891,1,Supermarket,Bar,Café,Italian Restaurant,Bus Stop,Coffee Shop,Bakery,Pizza Place,Plaza,Park
+6,Pankow,13.436379168976583,52.59765827133238,103.2163613384214,3,Supermarket,Café,Bakery,Tram Station,Bus Stop,Park,Italian Restaurant,Drugstore,German Restaurant,Coffee Shop
+7,Reinickendorf,13.288141858855083,52.60484489017112,89.32284489391341,1,Supermarket,Italian Restaurant,Bus Stop,Bakery,German Restaurant,Hotel,Restaurant,Park,Café,Lake
+8,Spandau,13.181870353892062,52.519205700925504,91.87506467076705,4,Bus Stop,Supermarket,Italian Restaurant,Restaurant,Drugstore,Harbor / Marina,Park,Café,Bakery,German Restaurant
+9,Steglitz-Zehlendorf,13.242071459897895,52.42945022164251,102.56008222318832,1,Supermarket,Bus Stop,Italian Restaurant,German Restaurant,Café,Bakery,Park,Ice Cream Shop,Drugstore,Lake
+10,Tempelhof-Schöneberg,13.388298847214578,52.44066189130119,53.04992048513028,1,Supermarket,Bus Stop,Café,Bakery,Italian Restaurant,Park,German Restaurant,Hotel,Plaza,Ice Cream Shop
+11,Treptow-Köpenick,13.626334522436734,52.41789752621652,167.73454225443157,3,Supermarket,Tram Station,Café,Bus Stop,Bakery,Lake,German Restaurant,Hotel,Park,Beach
