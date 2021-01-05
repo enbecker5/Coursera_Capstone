@@ -1,5 +1,5 @@
 # Business Environments of Berlin Neighborhoods – Cluster Analysis #
-Project completed as Capstone Project for the IBM Data Science Professional Certification
+Project completed as Capstone Project for the IBM Data Science Professional Certification.
 
 This analysis aims to support entrepreneurs by giving them a clearer understanding of the business environments for each district and neighborhood through clustering at the district and neighborhood levels according to the most popular business categories in each district.  Cluster analysis of available data (described below) will allow entrepreneurs to select the appropriate location for their business to ensure it is suited to local tastes to increase chances of success.
 
@@ -10,10 +10,6 @@ Through combining Berlin district shapefiles with demographic data as well as bu
 ![Neighborhood Shapefile over OpenStreetMap Tile](https://github.com/enbecker5/Coursera_Capstone/blob/main/report_images/jpg/neighborhood_shape.jpg "Neighborhood Shapefile")
 
 ![Berlin Venue Data Heatmap](https://github.com/enbecker5/Coursera_Capstone/blob/main/report_images/jpg/Heatmap%20Screenshot.png "Venue Data Heatmap")
-
-![District Level Regression](https://github.com/enbecker5/Coursera_Capstone/blob/main/report_images/jpg/district_reg.jpg "District Level Regression")
-
-![Neighborhood Level Regression](https://github.com/enbecker5/Coursera_Capstone/blob/main/report_images/jpg/neighborhood_reg.jpg "Neighborhood Level Regression")
 
 ![District Level Clusters](https://github.com/enbecker5/Coursera_Capstone/blob/main/report_images/jpg/dist_clusters.jpg "District Level Clusters")
 
